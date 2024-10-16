@@ -1,2 +1,3 @@
 # Lab1-01
-为了完成软件工程的实验
+
+add README.md with my OSS contribution plan  
